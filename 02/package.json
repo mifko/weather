@@ -1,0 +1,23 @@
+{
+  "name": "weather",
+  "version": "2.0.0",
+  "description": "Weather widget - example for Gulp blog series",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mifko/weather.git"
+  },
+  "author": "mifko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mifko/weather/issues"
+  },
+  "homepage": "https://github.com/mifko/weather",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-eslint": "^0.15.0"
+  }
+}
